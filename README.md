@@ -20,3 +20,7 @@ A responsive static website starter for gift cards, reward programs, cashback ed
 Upload all files to the root of your `giftcash` repository, commit to `main`, then open Settings → Pages. Select **Deploy from a branch**, choose `main` and `/(root)`, then Save. Wait for GitHub Pages to publish the URL.
 
 Current cards are educational placeholders; no live affiliate URLs are configured.
+
+
+## CPAGrip offer button
+The homepage now includes a clearly labeled partner-offer button linking to the supplied CPAGrip URL: `https://passwordomain.com/1918149`. Verify that this is the correct live locker URL in your CPAGrip account and that your traffic source is allowed by the offer/network before promoting it.
